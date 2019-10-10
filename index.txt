@@ -1,0 +1,14 @@
+Basic commands!!!
+. $ git init    // initialize local Git repository
+. $ git add <file> // Add files
+. $ git status // check staus of working branch
+. $ git commit // commit changes
+. $ git push    // push To remote repository
+. $ git pull // pull latest from romote repository
+. $ git clone // copy ropository into local folder
+. touch filename.extension // create a file into your local folder
+. $ git config --global user.name 'your name' // add your name
+. $ git config --global user.email 'your email' // add your name
+. $ git add *.html   // any html files 
+. $ git add .        // add all
+/Ali Hassan
